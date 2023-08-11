@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maneesh Mrinal
 - 👀 I’m interested in Games and Game Development
-- 🌱 I’m currently learning 2D game development
+- 🌱 2D game development is my favourite game to develope
 - 📫 How to reach me: Mail ID: maneesh.mrinal6@gmail.com
 
 <!---
