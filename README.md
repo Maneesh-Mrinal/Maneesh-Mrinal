@@ -1,9 +1,21 @@
-- Hi, I’m Maneesh Mrinal
-- I’m interested in Games and Game Development
-- I love 2D Game Developement
-- How to reach me: Mail ID: maneesh.mrinal6@gmail.com
+<h1 align="left">Hello I'm Maneesh Mrinal S</h1>
 
-<!---
-Manyyshhh/Manyyshhh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 I am a Final Year Student @ Vellore Institute of Technology pursuing B. Tech Computer Science Engineering
+
+🎮 I'm a game designer and developer, passionate about crafting immersive digital experiences. Currently working on developing various games.
+
+🕹️ With lines of code as my toolkit and creativity as my guide, I'm dedicated to pushing the boundaries of game design and development. From pixel art to 3D worlds, I'm here to explore, learn, and share.
+
+🌟 Join me on this exciting journey through the world of game creation, where every commit brings us closer to a new gaming adventure. Let's connect, collaborate, and build captivating experiences together. 🚀🎨 #GameDev #DigitalAdventurer #PixelExplorer"
+
+📖 One of my major projects has been a Game called <a href="https://github.com/RiddhimanRaguraman/CloudsRescue">Cloud's Rescue</a>, for which I have worked as the ***Game Design and Developer*** along with my team.
+
+I created <a href="https://github.com/Manyyshhh/Longest-Drive.git">Longest Drive</a> an endless car survival game, drawing inspiration from my daily commutes to the university.
+
+<h4>Linkedin Profile</h4>
+
+<a href="www.linkedin.com/in/maneesh-mrinal-s="><img width="32" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></a>
+
+<h4>Reach Me @</h4> 
+
+<a href="mailto:maneesh.mrinal6@gmail.com"><img width="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"></a>
