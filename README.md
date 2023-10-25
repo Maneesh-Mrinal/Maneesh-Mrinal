@@ -14,7 +14,7 @@ I created <a href="https://github.com/Manyyshhh/Longest-Drive.git">Longest Drive
 
 <h4>Linkedin Profile</h4>
 
-<a href="www.linkedin.com/in/maneesh-mrinal-s"><img width="32" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></a>
+<a href="https://www.linkedin.com/in/maneesh-mrinal-s?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img width="32" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></a>
 
 <h4>Reach Me @</h4> 
 
