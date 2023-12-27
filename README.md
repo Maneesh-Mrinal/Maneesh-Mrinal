@@ -1,7 +1,4 @@
-
-<a href="https://github.com/Maneesh-Mrinal/Maneesh-Mrinal" align="center">![Maneesh Logo TP 64px](https://github.com/Maneesh-Mrinal/Maneesh-Mrinal/assets/93015133/fa66df36-55cb-4347-acc5-d71153f4bb96)</a>
-
-<h1 align="left">Hello I'm Maneesh Mrinal S</h1>
+<h1 align="left">Hello I'm Maneesh Mrinal S![Maneesh Logo TP 64px](https://github.com/Maneesh-Mrinal/Maneesh-Mrinal/assets/93015133/fa66df36-55cb-4347-acc5-d71153f4bb96)</h1>
 
 💻 I am a Final Year Student @ Vellore Institute of Technology pursuing B. Tech Computer Science Engineering
 
