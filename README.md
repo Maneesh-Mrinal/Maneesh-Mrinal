@@ -1,3 +1,5 @@
+![Maneesh Logo TP](https://github.com/Maneesh-Mrinal/Maneesh-Mrinal/assets/93015133/71a5482f-0751-48a5-ba39-c126110c8bba)
+
 <h1 align="left">Hello I'm Maneesh Mrinal S</h1>
 
 💻 I am a Final Year Student @ Vellore Institute of Technology pursuing B. Tech Computer Science Engineering
