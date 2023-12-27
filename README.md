@@ -1,4 +1,4 @@
-<a href="https://github.com/Maneesh-Mrinal/Maneesh-Mrinal" align="center">![Maneesh Logo TP 128px](https://github.com/Maneesh-Mrinal/Maneesh-Mrinal/assets/93015133/c085fd08-d328-41f7-9a55-3a693fd2b628)</a>
+![Maneesh Logo TP 128px](https://github.com/Maneesh-Mrinal/Maneesh-Mrinal/assets/93015133/c085fd08-d328-41f7-9a55-3a693fd2b628)
 
 <h1 align="left">Hello I'm Maneesh Mrinal S!</h1>
 
