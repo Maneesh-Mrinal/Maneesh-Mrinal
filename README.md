@@ -2,6 +2,8 @@
 
 <h1 align="left">Hello I'm Maneesh Mrinal S!</h1>
 
+[Click Here to View My Portofolio](https://maneesh-mrinal-portfolio.vercel.app/)
+
 💻 I am a Final Year Student @ Vellore Institute of Technology pursuing B. Tech Computer Science Engineering
 
 🎮 I'm a game designer and developer, passionate about crafting immersive digital experiences. Currently working on developing various games.
